@@ -1,4 +1,8 @@
-> 本项目旨在说明利用cola提供的archetype,来快速生成springboot+mybatis-plus+swagger3.0+mysql的project，节约手动创建的时间，提高开发的效率.
+> 本项目旨在说明利用cola提供的archetype,来快速生成springboot+mybatisplus+swagger3.0+mysql的project，节约手动创建的时间，提高开发的效率.
+
+[Cola最佳实践](https://blog.csdn.net/significantfrank/article/details/110934799?spm=1001.2014.3001.5502)
+
+[Cola脚手架以及案例](https://github.com/alibaba/COLA)
 
 # 1、生成项目结构
 
